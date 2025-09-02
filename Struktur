@@ -1,0 +1,14 @@
+akuntansi-jasa/
+│
+├── README.md                # Penjelasan singkat isi repo
+├── 01-pengantar.md          # Definisi akuntansi jasa
+├── 02-transaksi-jasa.md     # Jenis-jenis transaksi pada perusahaan jasa
+├── 03-jurnal-umum.md        # Pencatatan jurnal umum
+├── 04-buku-besar.md         # Posting ke buku besar
+├── 05-neraca-saldo.md       # Penyusunan neraca saldo
+├── 06-penyesuaian.md        # Jurnal penyesuaian
+├── 07-laporan-keuangan.md   # Laporan laba rugi, perubahan modal, neraca
+└── contoh-soal/             
+    ├── soal1.md
+    ├── soal2.md
+    └── ...
